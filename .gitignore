@@ -11,3 +11,6 @@ goodfoods.db
 
 # unrelated local reference data, not part of the implementation
 restaurants near me - Google Maps.csv
+
+# Word/Office lock files (created while a .docx/.xlsx is open)
+~$*
