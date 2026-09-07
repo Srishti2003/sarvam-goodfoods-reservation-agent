@@ -1,0 +1,13 @@
+# secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# local runtime state (regenerate with `python -m mcp_server.seed_data`)
+goodfoods.db
+
+# unrelated local reference data, not part of the implementation
+restaurants near me - Google Maps.csv

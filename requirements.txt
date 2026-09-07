@@ -1,0 +1,7 @@
+mcp
+groq
+streamlit
+python-dotenv
+pytest
+pytest-asyncio
+psutil
