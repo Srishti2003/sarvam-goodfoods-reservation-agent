@@ -267,8 +267,10 @@ is also unreachable. Please try again shortly or contact us directly."*
 
 ## Business Strategy Summary
 
-Full detail: [`docs/GoodFoods_Business_Strategy.docx`](docs/GoodFoods_Business_Strategy.docx)
-(Part 1 of this submission).
+Full detail (Part 1 of this submission): [`docs/GoodFoods_Business_Strategy.docx`](docs/GoodFoods_Business_Strategy.docx)
+in this repo, or the same document on
+[Notion](https://app.notion.com/p/GoodFoods_Business_Strategy-3d442864f284806a8b52d45b44d5d2c1?source=copy_link)
+(with live, editable Mermaid diagrams).
 
 **Problem → Solution.** GoodFoods loses bookings to busy phone lines,
 hosts lose hours to manual admin, and no-shows leave tables empty — none
