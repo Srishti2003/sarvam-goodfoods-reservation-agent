@@ -8,6 +8,7 @@ SQLite-backed persistence.
 
 - **Part 1 — Business Strategy:** [`docs/GoodFoods_Business_Strategy.docx`](docs/GoodFoods_Business_Strategy.docx) · [Notion version](https://app.notion.com/p/GoodFoods_Business_Strategy-3d442864f284806a8b52d45b44d5d2c1?source=copy_link) · summarized in [Business Strategy Summary](#business-strategy-summary)
 - **Part 2 — Technical Implementation:** this repository — code below, [demo video](docs/demo/sarvam_assignment_demo.mp4), [example conversations](#example-conversations)
+- **Resume:** [`docs/resume.pdf`](docs/resume.pdf)
 
 ## Demo Video
 
