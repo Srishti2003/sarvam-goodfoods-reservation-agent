@@ -61,7 +61,7 @@ flowchart TD
     UI --> Orch["Agent Orchestrator<br/>agent/orchestrator.py — run_turn()"]
     Orch -->|messages + tool schemas| LLM["Groq LLM<br/>openai/gpt-oss-20b"]
     LLM -->|tool_calls OR final reply| Orch
-    Orch -->|call_tool(name, arguments)| Client["MCP Client<br/>agent/mcp_client.py — ClientSession"]
+    Orch -->|call_tool: name, arguments| Client["MCP Client<br/>agent/mcp_client.py — ClientSession"]
     Client <-->|stdio, separate OS subprocess| Server["MCP Server<br/>mcp_server/server.py — FastMCP"]
     Server --> Tools["8 MCP tools<br/>search / check / recommend / create /<br/>modify / cancel / escalate / ping"]
     Tools --> Store["PosStore<br/>mcp_server/pos_store.py"]
