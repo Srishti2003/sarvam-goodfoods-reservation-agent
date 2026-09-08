@@ -6,10 +6,11 @@ built on the official MCP Python SDK, a hand-written LLM tool-calling loop
 
 ## Demo Video
 
-DEMO VIDEO: [INSERT LINK]
+DEMO VIDEO: [`docs/demo/sarvam_assignment_demo.mp4`](docs/demo/sarvam_assignment_demo.mp4)
 
-*(Recording pending — see the demo script shared alongside this submission
-for the exact walkthrough this link will point to.)*
+Walks through restaurant discovery/recommendation, a live booking, a
+modification, and a cancellation against the running app, with the
+tool-call trace shown for each step.
 
 ## Contents
 
